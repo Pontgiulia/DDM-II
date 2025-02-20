@@ -1,0 +1,87 @@
+{
+  "lang": "pt-BR",
+  "short_name": "Terra",
+  "name": "Terra",
+  "description": "Veja no Terra as últimas notícias e as melhores coberturas ao vivo do Brasil e do Mundo, Esportes, Diversão, Vida e Estilo.",
+  "icons": [
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-ventana-transparente-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-ventana-transparente-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-ventana-transparente-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-ventana-maskable-laranja-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/540x720-01.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/540x720-02.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/540x720-03.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/540x720-04.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/1024x593-01.png",
+      "type": "image/jpg",
+      "sizes": "1024x593",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/1024x593-02.png",
+      "type": "image/jpg",
+      "sizes": "1024x593",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/1024x593-03.png",
+      "type": "image/jpg",
+      "sizes": "1024x593",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://s1.trrsf.com/fe/zaz-ui-t360/_img/screenshot/1024x593-04.png",
+      "type": "image/jpg",
+      "sizes": "1024x593",
+      "form_factor": "wide"
+    }
+  ],
+  "id":"/?utm_source=homescreen",
+  "start_url": "https://www.terra.com.br/?utm_source=homescreen",
+  "scope":"/",
+  "display": "standalone",
+  "background_color": "#ff6200",
+  "theme_color": "#ff6200",
+  "gcm_sender_id": "103953800507",
+  "orientation": "natural"
+}
