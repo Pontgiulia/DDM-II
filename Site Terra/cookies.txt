@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-terra.com.br	TRUE	/	FALSE	1999999999	X-XAct-ID	a42f94c5-4e00-4b06-a7e8-ff1eff1a41e6
-terra.com.br	TRUE	/	FALSE	1999999999	trrgeo	-23.7094%7C-46.4152%7CRIBEIRAO+PIRES%7CSAO+PAULO%7CBR%7C1
-www.terra.com.br	TRUE	/	FALSE	1999999999	SameSite	None
-
